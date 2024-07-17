@@ -2,7 +2,7 @@
   export let productId = 100;
 </script>
 
-<a href="/">Home</a>
+<a href="/">HomePage</a>
 
 <h1>Product display</h1>
 <ul>
